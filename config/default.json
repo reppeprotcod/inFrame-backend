@@ -1,0 +1,8 @@
+{
+    "port": 5000,
+    "db_name": "inframe_test",
+    "user": "root",
+    "password": "",
+    "dialect": "mysql",
+    "secret": "inFrame"
+}
